@@ -1,0 +1,6 @@
+@Library('sharedlibrary@test')_
+
+ stage('Demo') {
+     echo 'Hello world'
+     sayHello 'Harindra'
+ }
