@@ -5,5 +5,5 @@ def call(String name,String dayOfweek){
 }*/
 
 def call(Map config = [:]){
- sh "echo${config.name},To is ${config.dayOfweek}."
+ sh "echo ${config.name},To is ${config.dayOfweek}."
 }
