@@ -1,0 +1,9 @@
+{
+"artifactory_url" : "",
+"artifactory_target" : "libs-snapshot-local", 
+"artifactory_username" : "",
+"artifactory_password" : "",  
+"giturl" : ""  
+"gitcredentials" : "",
+  
+}
