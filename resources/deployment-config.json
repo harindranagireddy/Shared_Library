@@ -1,0 +1,17 @@
+{
+ "configtoken":{
+         "shared":{
+          "dev":{
+            "agent_label": "master",   
+          },
+           "qa":{
+            "agent_label": "master",   
+          },
+           "cert":{
+            "agent_label": "master",   
+          },
+           "prod":{
+            "agent_label": "master",   
+          },
+   }
+}
